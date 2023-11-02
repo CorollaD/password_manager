@@ -11,3 +11,9 @@ pyinstaller --name password_manager --windowed --onefile main.py
 # step 3
 pyinstaller password_manager.spec
 ```
+
+
+
+# Todo list
+1、批量导入
+2、界面美化
